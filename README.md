@@ -18,3 +18,5 @@ Asegúrate de tener instalados los siguientes componentes en tu sistema:
   - `plotly-express`
   - `streamlit`
 
+# Dashboard de Anuncios de Coches
+# Aplicación desplegada en Render: https://vehicles-dashboard-t2uk.onrender.com
