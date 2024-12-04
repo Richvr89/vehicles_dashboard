@@ -1,3 +1,15 @@
+# Dashboard de Anuncios de Coches
+# Aplicación desplegada en Render: https://vehicles-dashboard-t2uk.onrender.com
+
+import os
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+
+# Código principal del archivo continúa aquí...
+
+
+
 import os
 import streamlit.web.cli as stcli
 
